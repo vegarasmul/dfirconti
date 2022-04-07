@@ -1,0 +1,11 @@
+category,type,value,comment,date
+Payload delivery,sha1,23d10901395b484f57492fb40ec590254aedb1dc,Installer,1634036857
+Payload delivery,sha1,c6bda6161acdce21c9b356c26a41e79fa73d6cf6,Malicious DLL 1st Stage,1634036857
+Payload delivery,sha1,a9a7c77df16fab16faf4d6ebf43d27a9134f2815,Shellcode encrypted,1634036857
+Payload delivery,sha1,a23bc8f13e10ef3fee5102cd018e79b5303083d2,Shellcode decrypted 2nd stage,1634036857
+Payload delivery,sha1,59882261d10983842e855d9d969881980565a5e5,Final Stage backdoor,1634036857
+Payload delivery,md5,1af33e1657631357c73119488045302c,digitalguarder.com ja3 server side  signature,1634036857
+Payload delivery,md5,a0e9f5d64349fb13191bc781f81f42e1,"Common Windows TLS initialization,  Client side signature.",1634036857
+Network activity,url,https://digitalguarder.com/index.php,,1634037190
+Payload delivery,filename,dsparse.dll,,1634037720
+Network activity,domain,digitalguarder.com,,1634037840
