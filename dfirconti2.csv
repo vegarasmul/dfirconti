@@ -1,0 +1,22 @@
+category,type,value,comment,date
+Payload delivery,md5,0eecb7b1551fba4ec03851810d31743f,,1649139429
+Payload delivery,md5,fe4fb0b3ca2cb379d74cd239e71af44f,,1649139429
+Payload delivery,md5,7375eccff18bef7e89665d1a7f31edca,,1649139429
+Payload delivery,md5,28bd01b6b3efa726bf00d633398c5c8a,,1649139429
+Payload delivery,md5,10b29985cd0ecd878ac083f059c42d51,,1649139429
+Payload delivery,md5,a48fbea91a31afaf348f713b1f59dfbf,,1649139429
+Payload delivery,md5,b3053228b51ae7af99e0abfa663368d5,,1649139429
+Payload delivery,md5,ae4edc6faf64d08308082ad26be60767,,1649139429
+Payload delivery,md5,e7df03bc59b478f0588039416b845c7f,,1649139429
+Payload delivery,md5,21242d958caf225f76ad71a4d3a6d4d9,,1649139429
+Payload delivery,md5,a0e9f5d64349fb13191bc781f81f42e1,,1649139429
+Payload delivery,md5,ec74a5c51106f0419184d0dd08fb05bc,,1649139429
+Payload delivery,md5,22bbd14a893b19220e829940ad474687,,1649139429
+Payload delivery,md5,71c8eb081c33fd6b2c10effa92154a18,,1649139429
+Other,text,System Language Discovery (Enterprise T1614.001),,1649345360
+Other,text,CVE-2021-42287,,1649345360
+Other,text,"Active Directory Domain Services Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-42278, CVE-2021-42282, CVE-2021-42291.",,1649345360
+Other,text,CVE-2021-42278,,1649345361
+Other,text,"Active Directory Domain Services Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-42282, CVE-2021-42287, CVE-2021-42291.",,1649345361
+External analysis,attachment,20220404.231704.all-ioc.json,,1649345361
+Other,text,STIX 2.0,,1649345361
