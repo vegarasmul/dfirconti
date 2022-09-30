@@ -1,0 +1,27 @@
+Category,Type,Value,ptr,netblock,geoip
+Network activity,IP, 73.212.226.47 ,c-73-212-226-47.hsd1.dc.comcast.net.,hostmaster@arin.net,7922 | 73.0.0.0/8 | US | arin | 2005-04-19
+Network activity,IP, 77.91.102.72 ,vm603017.stark-industries.solutions.,abuse@stark-industries.solutions,43624 | 77.91.102.0/24 | RU | ripencc | 2007-04-25
+Network activity,IP, 77.91.73.32 ,vm626967.stark-industries.solutions.,abuse@stark-industries.solutions,52000 | 77.91.73.0/24 | RU | ripencc | 2007-04-25
+Network activity,IP, 77.91.73.32 ,vm626967.stark-industries.solutions.,abuse@stark-industries.solutions,52000 | 77.91.73.0/24 | RU | ripencc | 2007-04-25
+Network activity,IP, 87.251.77.253 ,vm103779.vds.as210546.net.,abuse@AS210546.net,210546 | 87.251.77.0/24 | RU | ripencc | 2005-09-12
+Network activity,IP, 77.91.73.32 ,vm626967.stark-industries.solutions.,abuse@stark-industries.solutions,52000 | 77.91.73.0/24 | RU | ripencc | 2007-04-25
+Network activity,IP, 77.75.230.9 ,vm613483.stark-industries.solutions.,abuse@stark-industries.solutions,43624 | 77.75.230.0/24 | MD | ripencc | 2021-08-10
+Network activity,IP, 5.252.177.217 ,5-252-177-217.mivocloud.com.,abuse@mivocloud.com,39798 | 5.252.177.0/24 | MD | ripencc | 2019-02-06
+Network activity,IP, 188.114.96.7 ,No PTR,abuse@cloudflare.com,13335 | 188.114.96.0/24 | US | ripencc | 2012-09-07
+Network activity,IP, 94.131.97.57 ,vm619304.stark-industries.solutions.,abuse@stark-industries.solutions,43624 | 94.131.97.0/24 | GI | ripencc | 2008-06-23
+Network activity,IP, 193.149.185.192 ,No PTR,admin@blnwx.com,399629 | 193.149.185.0/24 | US | arin | 2021-08-09
+Network activity,IP, 52.217.84.212 ,s3-1-w.amazonaws.com.,abuse@amazonaws.com,16509 | 52.217.80.0/20 | US | arin | 2015-09-02
+Network activity,IP, 108.158.66.149 ,server-108-158-66-149.bom78.r.cloudfront.net.,abuse@amazonaws.com,16509 | 108.158.64.0/22 | US | arin | 2020-12-11
+Network activity,IP, 108.158.66.38 ,server-108-158-66-38.bom78.r.cloudfront.net.,abuse@amazonaws.com,16509 | 108.158.64.0/22 | US | arin | 2020-12-11
+Network activity,IP,2406:da00:ff00::6b17:d1f5,,,
+Network activity,IP,2620:108:700f::36d4:b23e,,,
+Network activity,IP,2620:108:700f::239b:4585,,,
+Network activity,IP,108.158.66.38,,,
+Payload delivery,sha1,5c3b1665aca8ca97d04b363760f771360fc8f1e4,,,
+Payload delivery,sha1,ac623f9cd9bfb877720141ba1390c71dd4bb87a1,,,
+Payload delivery,sha1,7b0a58e6f858fd7f1c3abd21bec7dd65d0258d8a,,,
+Payload delivery,sha1,67b46055558b22f4c065c88cd28eb675da6d7224,,,
+Payload delivery,filename,PA$$w0rds_1234__SetupsMain1--W8.rar ,,,
+Payload delivery,filename,Pass_1234_Setup.zip,,,
+Payload delivery,filename,iVF4TJ5E.exe,,,
+Payload delivery,filename,Full_Pass_1234_Setup.zip ,,,
